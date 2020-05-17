@@ -10,6 +10,6 @@
 3. Duplamente encadeada
 4.  Aplicações Extras
 
-## [](<[https://github.com/Josuebmota/ApiSpringBoot](https://github.com/Josuebmota/ApiSpringBoot)#autor>)Autor
+## [](<[https://github.com/Josuebmota/Estrutura-de-Dados](https://github.com/Josuebmota/Estrutura-de-Dados)#autor>)Autor
 
 - **Josué Batista Mota** - [GitHub](https://github.com/Josuebmota) - Email: [josuebatistam1@gmail.com](mailto:josuebatistam1@gmail.com)
